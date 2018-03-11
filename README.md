@@ -12,16 +12,15 @@ The *Vim* scheme comes with transparent background, see `preview_vicecity.png` i
 
 The following editors are supported (sorted alphabetically):
 
-* *IDLE*
-* *GNOME Editor* (also known as *gedit*)
-* *GVim*
-* *Spyder*
-* *Vim*
+*   *IDLE*
+*   *GNOME Editor* (also known as *gedit*)
+*   *GVim*
+*   *Spyder*
+*   *Vim*
 
 ## Flavors
 
 There are two flavors of the color scheme:
 
-* **Default**<br>By default the color for the comments is fuchsia. On one hand to make them clearly recognizable and on the other hand because it is a typical 80's hi-viz color.
-* **Dark Gray**<br>Same as default, with dark gray comments instead.
- 
+*   **Default**<br>By default the color for the comments is fuchsia. On one hand to make them clearly recognizable and on the other hand because it is a typical 80's hi-viz color.
+*   **Dark Gray**<br>Same as default, with dark gray comments instead.
