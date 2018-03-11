@@ -11,9 +11,9 @@ These are the installation instructions for *Spyder* [version 2](#spyder-2) and 
 Close all running instances of *Spyder*.
 
 Navigate to your *Spyder* configuration directory, which usually is located inside the home directory of the current user, for example `/home/johndoe/.spyder2`.
-   
+
 Inside this directory there should be the main config file either with the name `spyder.ini` or (a hidden one) named `.spyder.ini` (with a leading dot).
- 
+
 Please backup the original config file before proceeding to avoid possible problems caused by misconfiguration.
 
 ### Installation
@@ -24,26 +24,26 @@ You can either install one of them or both.
 
 How to install:
 
-1. Edit the config file mentioned above and search for the color scheme section:
+1.  Edit the config file mentioned above and search for the color scheme section:
 
     ```ini
     [color_schemes]
-    ``` 
- 
-1. Below there should be a line containing the color scheme names like this:
+    ```
+
+1.  Below there should be a line containing the color scheme names like this:
 
     ```ini
     names = [u'Custom', u'Emacs', u'IDLE', u'Zenburn']
     ```
- 
-1. Insert the name `Vice City` as follows: 
- 
+
+1.  Insert the name `Vice City` as follows:
+
     ```ini
     names = [u'Custom', u'Emacs', u'IDLE', u'Vice City', u'Zenburn']
-    ``` 
- 
-1. Then, add the following lines at the end of the `color_schemes` section.
- 
+    ```
+
+1.  Then, add the following lines at the end of the `color_schemes` section.
+
     ```ini
     vice city/background = u'#0f0f0f'
     vice city/currentline = u'#1b1b1b'
@@ -63,32 +63,32 @@ How to install:
     vice city/currentcell = u'#fdfdde'
     ```
 
-1. Save and close the file.
+1.  Save and close the file.
 
 #### Dark Gray flavor
 
 How to install:
 
-1. Edit the config file mentioned above and search for the color scheme section:
+1.  Edit the config file mentioned above and search for the color scheme section:
 
     ```ini
     [color_schemes]
-    ``` 
- 
-1. Below there should be a line containing the color scheme names like this:
+    ```
+
+1.  Below there should be a line containing the color scheme names like this:
 
     ```ini
     names = [u'Custom', u'Emacs', u'IDLE', u'Zenburn']
     ```
- 
-1. Insert the name `Vice City (Dark Gray)` as follows: 
- 
+
+1.  Insert the name `Vice City (Dark Gray)` as follows:
+
     ```ini
     names = [u'Custom', u'Emacs', u'IDLE', u'Vice City (Dark Gray)', u'Zenburn']
-    ``` 
- 
-1. Then, add the following lines at the end of the `color_schemes` section.
- 
+    ```
+
+1.  Then, add the following lines at the end of the `color_schemes` section.
+
     ```ini
     vice city (dark gray)/background = u'#0f0f0f'
     vice city (dark gray)/currentline = u'#1b1b1b'
@@ -108,7 +108,7 @@ How to install:
     vice city (dark gray)/currentcell = u'#fdfdde'
     ```
 
-1. Save and close the file.
+1.  Save and close the file.
 
 ### Usage
 
@@ -116,9 +116,9 @@ Start *Spyder* again and open the preferences.
 
 The *Vice City* color scheme should now be available for the following components:
 
-* Editor
-* History log
-* Object inspector
+*   Editor
+*   History log
+*   Object inspector
 
 ## Spyder 3
 
@@ -127,9 +127,9 @@ The *Vice City* color scheme should now be available for the following component
 Close all running instances of *Spyder*.
 
 Navigate to your *Spyder* configuration directory, which usually is located inside the home directory of the current user, for example `/home/johndoe/.config/spyder`.
-   
+
 Inside this directory there should be the main config file with the name `spyder.ini`.
- 
+
 Please backup the original config file before proceeding to avoid possible problems caused by misconfiguration.
 
 ### Installation
@@ -140,26 +140,26 @@ You can either install one of them or both.
 
 How to install:
 
-1. Edit the config file mentioned above and search for the color scheme section:
+1.  Edit the config file mentioned above and search for the color scheme section:
 
     ```ini
     [color_schemes]
-    ``` 
- 
-1. Below there should be a line containing the color scheme names like this:
+    ```
+
+1.  Below there should be a line containing the color scheme names like this:
 
     ```ini
     names = ['emacs', 'idle', 'zenburn']
     ```
- 
-1. Insert the name `vicecity` as follows: 
- 
+
+1.  Insert the name `vicecity` as follows:
+
     ```ini
     names = ['emacs', 'idle', 'vicecity', 'zenburn']
-    ``` 
- 
-1. Then, add the following lines at the end of the `color_schemes` section.
- 
+    ```
+
+1.  Then, add the following lines at the end of the `color_schemes` section.
+
     ```ini
     vicecity/name = u'Vice City'
     vicecity/background = u'#0f0f0f'
@@ -180,32 +180,32 @@ How to install:
     vicecity/currentcell = u'#fdfdde'
     ```
 
-1. Save and close the file.
+1.  Save and close the file.
 
 #### Dark Gray flavor
 
 How to install:
 
-1. Edit the config file mentioned above and search for the color scheme section:
+1.  Edit the config file mentioned above and search for the color scheme section:
 
     ```ini
     [color_schemes]
-    ``` 
- 
-1. Below there should be a line containing the color scheme names like this:
+    ```
+
+1.  Below there should be a line containing the color scheme names like this:
 
     ```ini
     names = ['emacs', 'idle', 'zenburn']
     ```
- 
-1. Insert the name `vicecity_darkgray` as follows: 
- 
+
+1.  Insert the name `vicecity_darkgray` as follows:
+
     ```ini
     names = ['emacs', 'idle', 'vicecity_darkgray', 'zenburn']
-    ``` 
- 
-1. Then, add the following lines at the end of the `color_schemes` section.
- 
+    ```
+
+1.  Then, add the following lines at the end of the `color_schemes` section.
+
     ```ini
     vicecity_darkgray/name = u'Vice City (Dark Gray)'
     vicecity_darkgray/background = u'#0f0f0f'
@@ -226,7 +226,7 @@ How to install:
     vicecity_darkgray/currentcell = u'#fdfdde'
     ```
 
-1. Save and close the file.
+1.  Save and close the file.
 
 ### Usage
 
@@ -234,7 +234,6 @@ Start *Spyder* again and open the preferences.
 
 The *Vice City* color scheme should now be available for the following components:
 
-* Editor
-* History log
-* Object inspector
-
+*   Editor
+*   History log
+*   Object inspector
