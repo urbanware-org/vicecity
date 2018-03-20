@@ -2,7 +2,7 @@
 
 ## Description
 
-The *Vice City* color scheme is optimized for light text on dark background using 80's style hi-viz colors. It is suitable for all kinds of programming and scripting languages as well as config files.
+The *Vice City* color scheme is optimized for light text on dark background using 80's style hi-viz colors. Intentionally designed for text-only environments, it is suitable for all kinds of programming and scripting languages as well as config files.
 
 Currently available for various editors and in two different flavors.
 
