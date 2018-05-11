@@ -5,6 +5,7 @@
 *   [Supported editors](#supported-editors)
 *   [Flavors](#Flavors)
 *   [Pastel colors](#pastel-colors)
+*   [Contact](#contact)
 
 ----
 
@@ -54,5 +55,13 @@ In that environment only 16 colors can be used and none of them is a pastel colo
 ### All others
 
 For the other editors mentioned above there is no pastel version of the color scheme.
+
+[Top](#vice-city-color-scheme-)
+
+## Contact
+
+Any suggestions, questions, bugs to report or feedback to give?
+
+You can contact me by sending an email to <dev@urbanware.org>.
 
 [Top](#vice-city-color-scheme-)
