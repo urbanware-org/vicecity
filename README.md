@@ -17,7 +17,7 @@ Currently available for various editors and in two different flavors.
 
 The *Vim* scheme comes with transparent background, see `preview_vicecity.png` inside the `vim` sub-directory. However, transparency does **not** work in *GVim*.
 
-[Top](#vice-city-color-scheme-)
+[Top](#vice-city-color-scheme)
 
 ## Supported editors
 
@@ -29,7 +29,7 @@ The following editors are supported (sorted alphabetically):
 *   *Spyder*
 *   *Vim*
 
-[Top](#vice-city-color-scheme-)
+[Top](#vice-city-color-scheme)
 
 ## Flavors
 
@@ -38,7 +38,7 @@ There are two flavors of the color scheme:
 *   **Default**<br>By default the color for the comments is fuchsia. On one hand to make them clearly recognizable and on the other hand because it is a typical 80's hi-viz color.
 *   **Dark Gray**<br>Same as default, with dark gray comments instead.
 
-[Top](#vice-city-color-scheme-)
+[Top](#vice-city-color-scheme)
 
 ## Pastel colors
 
@@ -56,7 +56,7 @@ In that environment only 16 colors can be used and none of them is a pastel colo
 
 For the other editors mentioned above there is no pastel version of the color scheme.
 
-[Top](#vice-city-color-scheme-)
+[Top](#vice-city-color-scheme)
 
 ## Contact
 
@@ -64,4 +64,4 @@ Any suggestions, questions, bugs to report or feedback to give?
 
 You can contact me by sending an email to <dev@urbanware.org>.
 
-[Top](#vice-city-color-scheme-)
+[Top](#vice-city-color-scheme)
