@@ -8,7 +8,8 @@
 "
 " Maintainer:   Ralf Kilian
 " GitHub:       https://github.com/urbanware-org/vicecity
-" Last Change:  2018 May 29
+" GitLab:       https://gitlab.com/urbanware-org/vicecity
+" Last Change:  2018 Aug 06
 
 hi clear
 set background=dark
