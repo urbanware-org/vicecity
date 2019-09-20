@@ -6,7 +6,7 @@ How to install:
 
 1.  Download the preferred flavor of the color scheme or both of them.
 
-1.  Copy the file (or files) into the *Vim* color scheme directory, e. g. `/usr/share/vim/vim74/colors` depending on the installed version.
+1.  Copy the file (or files) into the *Vim* color scheme directory, e.g. `/usr/share/vim/vim74/colors` depending on the installed version.
 
 1.  Start (or restart) *Vim* and type `:colorscheme` followed by a space and the name of the color scheme (for example `:colorscheme vicecity` for the default one or `:colorscheme vicecity_darkgray` for the one with dark gray comments) to enable the corresponding *Vice City* color scheme.
 
