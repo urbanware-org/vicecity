@@ -35,7 +35,7 @@ The following editors are supported (sorted alphabetically):
 
 There are two flavors of the color scheme:
 
-*   **Default**<br>By default the color for the comments is fuchsia. On one hand to make them clearly recognizable and on the other hand because it is a typical 80's hi-viz color.
+*   **Default**<br>By default the color for the comments is fuchsia. On one hand to make them clearly recognizable and on the other hand because it is a typical 80's hi-viz color. However, comment blocks look terrible this way.
 *   **Dark Gray**<br>Same as default, with dark gray comments instead.
 
 [Top](#vice-city-color-scheme)
