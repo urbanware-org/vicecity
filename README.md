@@ -3,13 +3,15 @@
 **Table of contents**
 *   [Description](#description)
 *   [Supported editors](#supported-editors)
-*   [Flavors](#Flavors)
+*   [Flavors](#flavors)
 *   [Pastel colors](#pastel-colors)
 *   [Contact](#contact)
 
 ----
 
 ## Description
+
+<img src="https://raw.githubusercontent.com/urbanware-org/vicecity/master/vim/preview_vicecity.png" alt="Vice City preview" height="264px" width="398px" align="right"/>
 
 The *Vice City* color scheme is optimized for light text on dark background using 80's style hi-viz colors. Intentionally designed for text-only environments, it is suitable for all kinds of programming and scripting languages as well as config files.
 
