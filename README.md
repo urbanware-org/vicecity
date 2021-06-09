@@ -11,13 +11,15 @@
 
 ## Description
 
-<img src="https://raw.githubusercontent.com/urbanware-org/vicecity/master/vim/preview_vicecity.png" alt="Vice City preview" height="264px" width="398px" align="right"/>
+<img src="https://raw.githubusercontent.com/urbanware-org/vicecity/master/stuff/vim_preview.png" alt="Vice City preview" height="264px" width="398px" align="right"/>
 
 The *Vice City* color scheme is optimized for light text on dark background using 80's style hi-viz colors. Intentionally designed for text-only environments, it is suitable for all kinds of programming and scripting languages as well as config files.
 
 Currently available for various editors and in two different flavors.
 
-The *Vim* scheme comes with transparent background, see `preview_vicecity.png` inside the `vim` sub-directory. However, transparency does **not** work in *GVim*.
+The *Vim* scheme comes with transparent background, as you can see on the image on the right. However, transparency does **not** work in *GVim*.
+
+Click the image to see it in unscaled full size.
 
 [Top](#vice-city-color-scheme)
 
