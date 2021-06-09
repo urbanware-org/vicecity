@@ -50,7 +50,7 @@ There are two flavors of the color scheme:
 
 #### Graphical shell
 
-<img src="https://raw.githubusercontent.com/urbanware-org/vicecity/master/vim/colors_pastel.png" alt="Pastel colors" align="right"/>Usually, terminal emulators (like *GNOME Terminal*) allow setting different color schemes. When using a scheme with pastel colors, the *Vim* color scheme will of course also appear in pastel instead of hi-viz colors.
+<img src="https://raw.githubusercontent.com/urbanware-org/vicecity/master/stuff/colors_pastel.png" alt="Pastel colors" align="right"/>Usually, terminal emulators (like *GNOME Terminal*) allow setting different color schemes. When using a scheme with pastel colors, the *Vim* color scheme will of course also appear in pastel instead of hi-viz colors.
 
 #### Non-graphical shell
 
