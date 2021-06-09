@@ -17,7 +17,7 @@ The *Vice City* color scheme is optimized for light text on dark background usin
 
 Currently available for various editors and in two different flavors.
 
-The *Vim* scheme comes with transparent background, as you can see on the image on the right. However, transparency does **not** work in *GVim*.
+The *Vim* scheme comes with transparent background, as you can see on the preview image on the right. However, transparency does **not** work in *GVim*.
 
 Click the image to see it in unscaled full size.
 
