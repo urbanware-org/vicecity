@@ -2,7 +2,9 @@
 
 There are no separate color scheme files for *Spyder*, so you have to install or add the color scheme manually by modifying its main config file.
 
-These are the installation instructions for *Spyder* [version 2](#spyder-2) and [version 3](#spyder-3) on a *Linux* system. However, they may also work with different versions and environments.
+These are the installation instructions for *Spyder* [version 2](#spyder-2) and [version 3](#spyder-3) on a *Linux* system. However, they may also work with different environments.
+
+With newer versions of *Spyder* (version 3 and higher) this tutorial may not work anymore. It also will not be updated, as I no longer use this IDE.
 
 ## Spyder 2
 
