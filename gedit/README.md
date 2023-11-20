@@ -4,10 +4,12 @@ The color scheme can be easily installed by adding the color scheme file to the 
 
 How to install:
 
-1.  First, close all running instances of *gedit*.
+1.  Close all running instances of *gedit*.
 
-1.  Download the preferred flavor of the color scheme or both.
+1.  Download the color scheme files.
 
-1.  Copy the file (or files) into the *gedit* color scheme directory. Details about the location of that directory can be found inside the [*GNOME Wiki*](https://wiki.gnome.org/Projects/GtkSourceView/StyleSchemes).
+1.  Copy the files into the *gedit* color scheme directory.<br> Details about the location of that directory can be found inside the [*GNOME Wiki*](https://wiki.gnome.org/Projects/GtkSourceView/StyleSchemes).
 
-1.  Start *gedit* and set the preferred *Vice City* color scheme inside the preferences.
+1.  Start *gedit* and open the preferences for fonts and colors.
+
+1.  Add the *Vice City* color schemes and set the preferred one.
