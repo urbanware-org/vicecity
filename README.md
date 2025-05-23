@@ -33,6 +33,9 @@ The following editors are supported (sorted alphabetically):
 *   *Spyder*
 *   *Vim*
 
+> [!NOTE]
+> The color schemes for *IDLE* and *Spyder* are not updated anymore.
+
 [Top](#vice-city-color-scheme)
 
 ## Flavors
