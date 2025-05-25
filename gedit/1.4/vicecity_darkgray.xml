@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<!--
+
+    Vice City color scheme for the GNOME Editor (gedit)
+    Dark Gray flavor
+    Version 1.4
+    Copyright (C) 2025 by Ralf Kilian
+    Distributed under the MIT License (https://opensource.org/licenses/MIT)
+
+    GitHub: https://github.com/urbanware-org/vicecity
+    GitLab: https://gitlab.com/urbanware-org/vicecity
+
+-->
+
+<style-scheme id="vicecity_darkgray" name="Vice City (Dark Gray)" kind="dark">
+
+    <_description>Vice City color scheme with dark gray comments</_description>
+
+    <style background="#808080" foreground="#808080"                                name="cursor"/>
+    <style background="#0f0f0f" foreground="#c0c0c0"                                name="text"/>
+    <style background="#1b1b1b"                                                     name="current-line"/>
+    <style background="#020202" foreground="#6e6e6e"                                name="line-numbers"/>
+    <style background="#0088ff" foreground="#ffffff"                                name="selection"/>
+    <style background="#646464" foreground="#b8b8b8"                                name="right-margin"/>
+
+    <style background="#2e5778" foreground="#ffffff"                                name="bracket-match"/>
+    <style background="#8b0000"                                                     name="bracket-mismatch"/>
+
+    <style background="#006400" foreground="#ffffff"                                name="search-match"/>
+
+    <style                      foreground="#00ffff"                                name="def:boolean"/>
+    <style                      foreground="#727272"                italic="true"   name="def:comment"/>
+    <style                      foreground="#00ff00"                                name="def:constant"/>
+    <style background="#727272" foreground="#ffffff"                                name="def:doc-comment-element"/>
+    <style                      foreground="#ff8c00"                                name="def:identifier"/>
+    <style background="#ffff00" foreground="#ff0000"                                name="def:note"/>
+    <style                      foreground="#ffffff"                                name="def:preprocessor"/>
+    <style                      foreground="#727272"                italic="true"   name="def:shebang"/>
+    <style                      foreground="#ff0000"                                name="def:specials"/>
+    <style                      foreground="#fcff00"                                name="def:statement"/>
+    <style                      foreground="#00ff00"                                name="def:type"/>
+    <style background="#c00000" foreground="#ffffff"                                name="def:error"/>
+
+    <style                      foreground="#00ffff"                                name="sh:function"/>
+    <style                      foreground="#ffffff"                                name="sh:variable"/>
+
+    <style                      foreground="#c0c0c0"                                name="xml:attribute-name"/>
+    <style                      foreground="#00ffff"                                name="xml:element-name"/>
+    <style                      foreground="#ff8c00"                                name="xml:entity"/>
+    <style                      foreground="#ffd700"    bold="true"                 name="xml:processing-instruction"/>
+
+</style-scheme>
